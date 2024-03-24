@@ -1,0 +1,3 @@
+/**
+*本机号码认证，参考文档：https://esandinfo.yuque.com/yv6e1k/aa4qsg/ft4g56
+**/

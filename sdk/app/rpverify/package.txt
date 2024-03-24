@@ -1,0 +1,3 @@
+/**
+*实人认证（全平台），参考文档：https://esandinfo.yuque.com/yv6e1k/aa4qsg/em6c1a
+**/

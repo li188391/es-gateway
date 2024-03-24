@@ -1,0 +1,3 @@
+/**
+*刷脸认证（全平台），参考文档：https://esandinfo.yuque.com/yv6e1k/aa4qsg/upsda2
+**/
