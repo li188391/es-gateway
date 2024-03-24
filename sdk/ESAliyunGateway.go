@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strings"
 
-	"com.es.gateway.sdk/sdk/util"
+	"github.com/li188391/es-gateway/sdk/util"
 )
 
 type ESAlyunGateway struct {
